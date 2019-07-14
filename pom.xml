@@ -690,4 +690,10 @@
 			<system>Travis</system>
 			<url>https://travis-ci.org/biojava/biojava</url>
 	</ciManagement>
+	 <distributionManagement>
+         <repository>
+             <id>nexus</id>
+             <url>http://nexus:8081/repository/maven-snapshots</url>
+         </repository>
+  </distributionManagement>
 </project>
