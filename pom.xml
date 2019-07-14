@@ -341,7 +341,7 @@
 				<extensions>true</extensions>
 				<configuration>
 					<serverId>nexus</serverId>
-					<nexusUrl>http://nexus:8081/nexus/repository/maven-snapshots</nexusUrl>
+					<nexusUrl>http://nexus:8081/repository/maven-snapshots</nexusUrl>
 					<autoReleaseAfterClose>true</autoReleaseAfterClose>
 				</configuration>
 			</plugin>
